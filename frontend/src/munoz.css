@@ -1,0 +1,95 @@
+.movieCard{
+    height: 60vh;
+    width: 40vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bannerMovies{
+    height: 90vh;
+    width: 100%;
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.itemContent{
+    height: 90vh;
+}
+
+.contentWraper{
+    width: 50vw;
+}
+
+.contentTitle{
+    width: 100%;
+    z-index: 3;
+}
+
+.contentDescription{
+    width: 60vw;
+    z-index: 3;
+}
+.serverDown{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.rating{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 5em;
+    left: -10.2em;
+    font-size: 30px;
+}
+
+
+@media only screen and (max-width: 1250px) {
+    .rating{
+        position: relative;
+        top: 5em;
+        left: -10.7em;
+        font-size: 25px;
+    }
+        
+}
+@media only screen and (max-width: 850px) {
+    .rating{
+        position: relative;
+        top: 6em;
+        left: -11.5em;
+        font-size: 20px;
+    }
+    
+}
+@media only screen and (max-width: 600px) {
+    .rating{
+        position: relative;
+        top: 6em;
+        left: -11.5em;
+        font-size: 20px;
+    }
+    .content__description {
+        display: none !important;
+      }
+}
+@media only screen and (max-width: 464) {
+    .rating{
+        position: relative;
+        top: 11em;
+        left: -10em !important;
+        font-size: 10px;
+    }
+    .content__description {
+        display: none !important;
+      }
+}
