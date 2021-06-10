@@ -2,7 +2,7 @@
 
 ## Es una Web App basada netamente en la plataforma de entretenimiento Netflix 
 
-### Puede ver el sitio web haciendo click en el siguiente enlace [ CloudFlix ](  )
+### Puede ver el sitio web haciendo click en el siguiente enlace [ CloudFlix ]( https://cloud-flix.herokuapp.com/ )
 
 Al entrar en este sitio web encontraras una interfaz delicada con una gran experiencia de usuario pensada para satistafecer los estandares actuales de calidad
 
