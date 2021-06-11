@@ -6,6 +6,10 @@
 
 Al entrar en este sitio web encontraras una interfaz delicada con una gran experiencia de usuario pensada para satistafecer los estandares actuales de calidad
 
+## Iniciar
+
+Use `npm install` para instalar las dependencias necesarias tanto del lado front-end como en del lado back-end, luego `npm start` para correr la app. 
+
 ### Capturas de pantalla
 ---
 
@@ -16,3 +20,15 @@ Al entrar en este sitio web encontraras una interfaz delicada con una gran exper
 [![Series.png](https://i.postimg.cc/y6DSrcyD/Series.png)](https://postimg.cc/K4yz1KVb)
 
 [![Banner-audiovisual.png](https://i.postimg.cc/0QQ9jGyD/Banner-audiovisual.png)](https://postimg.cc/mc0v6HMg)
+
+
+### Tecnologías utilizadas
+
+* Javascript
+* CSS
+* ReactJs
+* Redux
+* Node 
+* Express
+* MongoDB
+* Socket 
